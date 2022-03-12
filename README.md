@@ -1,2 +1,1 @@
-# babys-first-haskell-repo
-...
+# my-project
